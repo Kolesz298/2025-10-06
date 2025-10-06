@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(7, 241, 7);
+}
+
+p {
+    color: lightgreen;
+}
+
+.container {
+    width: 500px;
+    background-color: teal;
+    margin: auto;
+    padding: 20px;
+}
