@@ -1,14 +1,20 @@
 h1 {
-    color: rgb(7, 241, 7);
+    color:darkgreen;
 }
 
 p {
-    color: lightgreen;
+    color:#333333;
 }
 
 .container {
     width: 500px;
-    background-color: teal;
-    margin: auto;
+    background-color:#eeeeee;
     padding: 20px;
+    border: 3px solid #666666;
+    border-radius: 10px;
+    margin: 30px auto;
+    
+}
+body{
+    background-color:#dddddd;
 }
